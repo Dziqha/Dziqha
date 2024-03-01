@@ -2,8 +2,8 @@
 - 🏫 Informatics Engineering Student at **State University of Surabaya**
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **abdurrohmanhaadziq@gmail.com**
-- 🌐 Web Portfolio me **haadziq.my.id**
-- 🔗 Link me **link.haadziq.my.id**
+- 🌐 Web Portfolio me <a href="https://www.haadziq.my.id/" target="blank">
+- 🔗 Link me <a href="https://link.haadziq.my.id/" target="blank">
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/dziqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dziqha" height="30" width="40" /></a>
