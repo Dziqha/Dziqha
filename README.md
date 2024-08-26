@@ -78,7 +78,10 @@ func main() {
 </details>
 
 [![](https://visitcount.itsvg.in/api?id=Dziqha&icon=0&color=0)](https://visitcount.itsvg.in)
-### "Jangan pernah menyerah, karena kegagalan adalah kesempatan untuk memulai kembali dengan lebih cerdas."
+### <img src="https://cdn-icons-png.flaticon.com/512/2734/2734225.png" alt="motivational" width="50" height="50"/> *"Jangan pernah menyerah, karena kegagalan adalah kesempatan untuk memulai kembali dengan lebih cerdas."*
+
+
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
