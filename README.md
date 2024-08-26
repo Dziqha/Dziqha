@@ -1,27 +1,84 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abdurrohman+Haadziq!;" /></h1>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50">
 
-- 🏫 Informatics Engineering Student at **State University of Surabaya**
-- 🌱 I’m currently learning **Flutter**
-- 📫 How to reach me **abdurrohmanhaadziq@gmail.com**
-- 🌐 Web Portfolio me [haadziq.my.id](https://www.haadziq.my.id/)
-- 🔗 Link me [link.haadziq.my.id](https://link.haadziq.my.id/)
+## 👨‍💻 About Me
+```go
+package main
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/dziqha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dziqha" height="30" width="40" /></a>
-<a href="https://instagram.com/dziq_ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dziq_ha" height="30" width="40" /></a>
+import "fmt"
+
+func main() {
+    info := map[string]string{
+        "University": "State University of Surabaya",
+        "Current Learning": "Flutter",
+        "Email": "abdurrohmanhaadziq@gmail.com",
+        "Web Portfolio": "https://www.haadziq.my.id/",
+        "Link": "https://link.haadziq.my.id/",
+    }
+
+    fmt.Println("🏫 Informatics Engineering Student at", info["University"])
+    fmt.Println("🌱 I’m currently learning", info["Current Learning"])
+    fmt.Println("📫 How to reach me", info["Email"])
+    fmt.Println("🌐 Web Portfolio me", info["Web Portfolio"])
+    fmt.Println("🔗 Link me", info["Link"])
+}
+```
+
+## 💻 Tech Stack
+
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://golang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://redis.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.elastic.co/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" />
+  </a>
 </p>
 
-## 💻 Tech Stack:
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="50" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/> </a></p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dziqha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dziqha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dziqha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dziqha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: 157px; max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dziqha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6" style="height: 157px; max-width: 100%;" />
+  </div>
+</details>
 
----
 [![](https://visitcount.itsvg.in/api?id=Dziqha&icon=0&color=0)](https://visitcount.itsvg.in)
+### "Jangan pernah menyerah, karena kegagalan adalah kesempatan untuk memulai kembali dengan lebih cerdas."
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
