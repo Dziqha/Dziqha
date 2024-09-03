@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abdurrohman+Haadziq!;" /></h1>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="50">
 
@@ -80,8 +81,6 @@ func main() {
 [![](https://visitcount.itsvg.in/api?id=Dziqha&icon=0&color=0)](https://visitcount.itsvg.in)
 ### <img src="https://cdn-icons-png.flaticon.com/512/2734/2734225.png" alt="motivational" width="50" height="50"/> *"Jangan pernah menyerah, karena kegagalan adalah kesempatan untuk memulai kembali dengan lebih cerdas."*
 
-
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
