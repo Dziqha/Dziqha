@@ -67,6 +67,10 @@ func main() {
   <a href="https://www.elastic.co/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" />
   </a>
+  &nbsp; &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
+  </a>
 </p>
 
 
