@@ -11,7 +11,7 @@ import "fmt"
 func main() {
     info := map[string]string{
         "University": "State University of Surabaya",
-        "Current Learning": "Flutter",
+        "Current Learning": "Golang",
         "Email": "abdurrohmanhaadziq@gmail.com",
         "Web Portfolio": "https://www.haadziq.my.id/",
         "Link": "https://link.haadziq.my.id/",
